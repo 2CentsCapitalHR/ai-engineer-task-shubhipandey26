@@ -23,8 +23,6 @@ It automates the process of:
 
 ---
 
----
-
 ## 🚀 Getting Started
 
 ### **1️⃣ Run on Google Colab**
@@ -43,7 +41,7 @@ Click the button below to open the notebook directly in Colab:
 - Python 3.8+
 - `requests` library (install with `pip install requests`)
 
-#### **Steps**
+## **Steps**
 
 # Install dependencies
 pip install -r requirements.txt
@@ -58,10 +56,12 @@ All links are directly from official ADGM sources.
 The script skips any failed downloads and reports them at the end.
 
 You can modify the categories and links in the dictionary at the top of the notebook.
+
 ---
 ## 📜 License
 This project is for educational and assessment purposes only.
 All document rights belong to ADGM.
+
 ---
 ## 👩‍💻 Author
 Shubhi
