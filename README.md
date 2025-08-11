@@ -24,6 +24,7 @@ It automates the process of:
 ---
 
 ## 📂 Project Structure
+```plaintext
 ADGM-Document-Automation/
 │
 ├── ADGM_Document_Downloader.ipynb   # Main Google Colab notebook
