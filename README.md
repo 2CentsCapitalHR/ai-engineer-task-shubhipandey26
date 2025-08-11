@@ -44,7 +44,6 @@ Click the button below to open the notebook directly in Colab:
 - `requests` library (install with `pip install requests`)
 
 #### **Steps**
-```bash
 # Clone the repository
 git clone https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME.git
 
@@ -58,13 +57,12 @@ pip install -r requirements.txt
 jupyter notebook ADGM_Document_Downloader.ipynb```
 
 ## 📂 Project Structure
-```plaintext
 ADGM-Document-Automation/
 │
 ├── ADGM_Document_Downloader.ipynb # Main Google Colab notebook
 ├── requirements.txt # Python package dependencies (if any)
 ├── README.md # This file
-└── downloaded_files/ # Folder with downloaded ADGM docs (auto-created)```
+└── downloaded_files/ # Folder with downloaded ADGM docs (auto-created)
 
 🧠 Notes
 All links are directly from official ADGM sources.
