@@ -25,7 +25,7 @@ It automates the process of:
 
 ## 🚀 Getting Started
 
-### **1️⃣ Run on Google Colab**
+## **1️⃣ Run on Google Colab**
 Click the button below to open the notebook directly in Colab:  
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/blob/main/ADGM_Document_Downloader.ipynb)
@@ -36,21 +36,21 @@ Click the button below to open the notebook directly in Colab:
 
 ---
 
-### **2️⃣ Run Locally (Optional)**
+## **2️⃣ Run Locally (Optional)**
 #### **Requirements**
 - Python 3.8+
 - `requests` library (install with `pip install requests`)
 
-## **Steps**
+# **Steps**
 
-# Install dependencies
+### Install dependencies
 pip install -r requirements.txt
 
-# Run the notebook locally
+### Run the notebook locally
 jupyter notebook ADGM_Document_Downloader.ipynb```
 
 ---
-## 🧠 Notes
+# 🧠 Notes
 All links are directly from official ADGM sources.
 
 The script skips any failed downloads and reports them at the end.
@@ -58,17 +58,17 @@ The script skips any failed downloads and reports them at the end.
 You can modify the categories and links in the dictionary at the top of the notebook.
 
 ---
-## 📜 License
+# 📜 License
 This project is for educational and assessment purposes only.
 All document rights belong to ADGM.
 
 ---
-## 👩‍💻 Author
+# 👩‍💻 Author
 Shubhi
 📧 pandeyshubhi2605@gmail.com
 🔗 www.linkedin.com/in/shubhi-pandey26
 
-## 📂 Project Structure
+# 📂 Project Structure
 ```plaintext
 ADGM-Document-Automation/
 │
