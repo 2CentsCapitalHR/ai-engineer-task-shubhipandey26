@@ -23,13 +23,13 @@ It automates the process of:
 
 ---
 
+## 📂 Project Structure
 ADGM-Document-Automation/
 │
-├── ADGM_Document_Downloader.ipynb # Main Google Colab notebook
-├── requirements.txt # Python package dependencies (if any)
-├── README.md # This file
-└── downloaded_files/ # Folder with downloaded ADGM docs (auto-created)
-
+├── ADGM_Document_Downloader.ipynb   # Main Google Colab notebook
+├── requirements.txt                 # Python package dependencies (if any)
+├── README.md                        # This file
+└── downloaded_files/                # Folder with downloaded ADGM docs (auto-created)
 
 ---
 
